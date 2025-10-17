@@ -1,0 +1,14 @@
+task-manager/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── components/
+│   │   ├── Task.js
+│   │   └── TaskList.js
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+│
+└── package.json
